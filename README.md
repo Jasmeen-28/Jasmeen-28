@@ -20,7 +20,7 @@
 ## 🔥 Projects
 
 -  🎬 **AI Subtitle Generator with Translation & Summarization**  
-  Automatically generate subtitles, translations, and summaries from any MP4 video using AI.
+  Automatically generate subtitles, translations, and summaries from any MP4 video using AI
   [GitHub Repo »](https://github.com/Jasmeen-28/Ai-Subtitle-Generator)
 
   
