@@ -52,9 +52,9 @@
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-link)
+- 🔗 LinkedIn - http://www.linkedin.com/in/kaurjasmeen00
 - 💼 [Portfolio](https://your-portfolio-link.com)
-- 📧 jasmeen.your@email.com
+- 📧 jasmeeenkaur463@gmail.com
 
 ---
 
