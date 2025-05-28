@@ -21,7 +21,7 @@
 
 -  🎬 **AI Subtitle Generator with Translation & Summarization**  
   Automatically generate subtitles, translations, and summaries from any MP4 video using AI
-  [GitHub Repo »](https://github.com/Jasmeen-28/Ai-Subtitle-Generator)
+    [GitHub Repo »](https://github.com/Jasmeen-28/Ai-Subtitle-Generator)
 
 - 🤖 **AI Chatbot with Django & GPT-4**  
   Real-time intelligent chatbot using WebSocket and OpenAI  
