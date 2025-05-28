@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jasmeen
+## 👋 Hi there, I'm Jasmeen
 
 🎓 BTech CSE | Aspiring Data Scientist  
 💡 Passionate about FastAPI, Machine Learning & Deep Learning  
@@ -19,6 +19,11 @@
 
 ## 🔥 Projects
 
+-  🎬 **AI Subtitle Generator with Translation & Summarization**  
+  Automatically generate subtitles, translations, and summaries from any MP4 video using AI.
+  [GitHub Repo »](https://github.com/Jasmeen-28/Ai-Subtitle-Generator)
+
+  
 - 🤖 **AI Chatbot with Django & GPT-4**  
   Real-time intelligent chatbot using WebSocket and OpenAI  
   [GitHub Repo »](https://github.com/Jasmeen-28/your-chatbot-repo)
