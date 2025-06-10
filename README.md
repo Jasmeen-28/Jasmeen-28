@@ -22,22 +22,24 @@
 -  🎬 **AI Subtitle Generator with Translation & Summarization**  
   Automatically generate subtitles, translations, and summaries from any MP4 video using AI
     [GitHub Repo »](https://github.com/Jasmeen-28/Ai-Subtitle-Generator)
-
-- 🤖 **AI Chatbot with Django & GPT-4**  
-  Real-time intelligent chatbot using WebSocket and OpenAI  
-  [GitHub Repo »](https://github.com/Jasmeen-28/your-chatbot-repo)
-
-- 📊 **Sentiment Analysis Dashboard**  
-  Flipkart reviews with TextBlob + Grafana + InfluxDB  
-  [GitHub Repo »](https://github.com/Jasmeen-28/your-sentiment-dashboard-repo)
-
+   
 - 📈 **Stock Forecasting with LSTM**  
   LSTM-based prediction with yFinance + Deep Learning techniques  
-  [GitHub Repo »](https://github.com/Jasmeen-28/your-lstm-stock-predictor)
+  [GitHub Repo »](https://github.com/Jasmeen-28/Stock-Portfolio-Optimization-Prediction)
 
-- ⚡ **ML APIs with FastAPI**  
-  Deploy machine learning models with FastAPI and Docker  
-  [GitHub Repo »](https://github.com/Jasmeen-28/your-fastapi-ml-api)
+- 🧠 **Age & Gender Detection with Deep Learning**
+  Real-time prediction of age and gender from facial images using OpenCV, CNNs, and pre-trained deep learning models
+  [GitHub Repo »](https://github.com/Jasmeen-28/age_gender_detection)
+
+- 🚗 **Traffic Detection & Vehicle Counting with Computer Vision**
+    Real-time vehicle detection, tracking, and counting using OpenCV, YOLO/DeepSORT, and video feed analysis
+        [GitHub Repo »](https://github.com/Jasmeen-28/Traffice-detction-Vehicle-counting)
+
+- 🎤 **Speech Emotion Recognition using Deep Learning**
+    Classify human emotions from audio using MFCC feature extraction and LSTM/CNN models trained on speech datasets
+      [GitHub Repo »](https://github.com/Jasmeen-28/Speech-Emotion-Recognition)
+
+
 
 ---
 
