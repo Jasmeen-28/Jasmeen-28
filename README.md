@@ -26,6 +26,11 @@
 -   🤖 **ThinkBot — Real-Time AI Chatbot (Text, Voice & Image)**
       Engage in intelligent real-time conversations with GPT-4.1 using text, voice, or even generate images — powered by Django, WebSockets, and OpenAI.
      [GitHub Repo »](https://github.com/Jasmeen-28/Think-Bot-A-Real-time-AI-Chat-System)
+
+-  📄 **AI File Analyzer & Summarizer**
+      Extracts, cleans, and summarizes text from PDF, DOCX, and TXT files using advanced NLP models like BERT and GPT.
+    [GitHub Repo »]( https://github.com/Jasmeen-28/Document-Analyzer-and-Summarizer)
+     
    
    
 - 📈 **Stock Forecasting with LSTM**  
