@@ -23,6 +23,11 @@
   Automatically generate subtitles, translations, and summaries from any MP4 video using AI
     [GitHub Repo »](https://github.com/Jasmeen-28/Ai-Subtitle-Generator)
    
+-   🤖 **ThinkBot — Real-Time AI Chatbot (Text, Voice & Image)**
+      Engage in intelligent real-time conversations with GPT-4.1 using text, voice, or even generate images — powered by Django, WebSockets, and OpenAI.
+     [GitHub Repo »](https://github.com/Jasmeen-28/Think-Bot-A-Real-time-AI-Chat-System)
+   
+   
 - 📈 **Stock Forecasting with LSTM**  
   LSTM-based prediction with yFinance + Deep Learning techniques  
   [GitHub Repo »](https://github.com/Jasmeen-28/Stock-Portfolio-Optimization-Prediction)
